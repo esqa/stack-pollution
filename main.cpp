@@ -59,7 +59,7 @@ int main()
         add esp, 24;
     }
 
-    printf("%i", retval);
+    printf("we're here! %i", retval);
 
     return 0;
 }
